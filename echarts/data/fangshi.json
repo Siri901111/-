@@ -1,0 +1,22 @@
+[
+	{
+		"submitted_via" : "Web",
+		"geshu" : 163036
+	},
+	{
+		"submitted_via" : "Referral",
+		"geshu" : 37806
+	},
+	{
+		"submitted_via" : "Phone",
+		"geshu" : 15861
+	},
+	{
+		"submitted_via" : "Postal mail",
+		"geshu" : 15523
+	},
+	{
+		"submitted_via" : "CA",
+		"geshu" : 11245
+	}
+]

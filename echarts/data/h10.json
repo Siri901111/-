@@ -1,0 +1,42 @@
+[
+	{
+		"shengfen" : "贵州",
+		"avjjg" : 80
+	},
+	{
+		"shengfen" : "黑龙江",
+		"avjjg" : 80
+	},
+	{
+		"shengfen" : "宁夏",
+		"avjjg" : 83
+	},
+	{
+		"shengfen" : "新疆",
+		"avjjg" : 83
+	},
+	{
+		"shengfen" : "内蒙古",
+		"avjjg" : 92
+	},
+	{
+		"shengfen" : "甘肃",
+		"avjjg" : 92
+	},
+	{
+		"shengfen" : "山西",
+		"avjjg" : 110
+	},
+	{
+		"shengfen" : "辽宁",
+		"avjjg" : 117
+	},
+	{
+		"shengfen" : "吉林",
+		"avjjg" : 118
+	},
+	{
+		"shengfen" : "陕西",
+		"avjjg" : 119
+	}
+]

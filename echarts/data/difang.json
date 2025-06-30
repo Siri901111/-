@@ -1,0 +1,82 @@
+ [
+	{
+		"state" : " Inc.\"",
+		"geshu" : 54865
+	},
+	{
+		"state" : "CA",
+		"geshu" : 34280
+	},
+	{
+		"state" : "FL",
+		"geshu" : 22713
+	},
+	{
+		"state" : "TX",
+		"geshu" : 18784
+	},
+	{
+		"state" : "NY",
+		"geshu" : 16610
+	},
+	{
+		"state" : " LLC\"",
+		"geshu" : 14316
+	},
+	{
+		"state" : "NJ",
+		"geshu" : 10121
+	},
+	{
+		"state" : "GA",
+		"geshu" : 9946
+	},
+	{
+		"state" : "PA",
+		"geshu" : 8698
+	},
+	{
+		"state" : "IL",
+		"geshu" : 8405
+	},
+	{
+		"state" : "VA",
+		"geshu" : 7686
+	},
+	{
+		"state" : "MD",
+		"geshu" : 7384
+	},
+	{
+		"state" : "OH",
+		"geshu" : 7362
+	},
+	{
+		"state" : "NC",
+		"geshu" : 6824
+	},
+	{
+		"state" : " Inc\"",
+		"geshu" : 6043
+	},
+	{
+		"state" : "MI",
+		"geshu" : 5875
+	},
+	{
+		"state" : "AZ",
+		"geshu" : 5252
+	},
+	{
+		"state" : "WA",
+		"geshu" : 5045
+	},
+	{
+		"state" : "MA",
+		"geshu" : 4438
+	},
+	{
+		"state" : "CO",
+		"geshu" : 4139
+	}
+]

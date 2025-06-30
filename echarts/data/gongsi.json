@@ -1,0 +1,42 @@
+[
+	{
+		"company" : "Equifax",
+		"geshu" : 21378
+	},
+	{
+		"company" : "Bank of America",
+		"geshu" : 20709
+	},
+	{
+		"company" : "Experian",
+		"geshu" : 20340
+	},
+	{
+		"company" : "Wells Fargo & Company",
+		"geshu" : 18999
+	},
+	{
+		"company" : "\"TransUnion Intermediate Holdings",
+		"geshu" : 17514
+	},
+	{
+		"company" : "JPMorgan Chase & Co.",
+		"geshu" : 16048
+	},
+	{
+		"company" : "Citibank",
+		"geshu" : 12087
+	},
+	{
+		"company" : "Ocwen",
+		"geshu" : 11520
+	},
+	{
+		"company" : "Nationstar Mortgage",
+		"geshu" : 8367
+	},
+	{
+		"company" : "Capital One",
+		"geshu" : 6992
+	}
+]

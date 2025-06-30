@@ -1,0 +1,23 @@
+[
+	
+	{
+		"company_response_to_consumer" : "Closed with explanation",
+		"geshu" : 181567
+	},
+	{
+		"company_response_to_consumer" : "Web",
+		"geshu" : 65682
+	},
+	{
+		"company_response_to_consumer" : "Closed with non-monetary relief",
+		"geshu" : 31324
+	},
+	{
+		"company_response_to_consumer" : "Closed with monetary relief",
+		"geshu" : 16994
+	},
+	{
+		"company_response_to_consumer" : "Referral",
+		"geshu" : 7508
+	}
+]

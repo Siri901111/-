@@ -1,0 +1,50 @@
+[
+	{
+		"product" : "Mortgage",
+		"geshu" : 86884
+	},
+	{
+		"product" : "Debt collection",
+		"geshu" : 79702
+	},
+	{
+		"product" : "Credit reporting",
+		"geshu" : 61509
+	},
+	{
+		"product" : "Bank account or service",
+		"geshu" : 31516
+	},
+	{
+		"product" : "Credit card",
+		"geshu" : 31346
+	},
+	{
+		"product" : "Consumer Loan",
+		"geshu" : 12908
+	},
+	{
+		"product" : "Student loan",
+		"geshu" : 9002
+	},
+	{
+		"product" : "Payday loan",
+		"geshu" : 3206
+	},
+	{
+		"product" : "Money transfers",
+		"geshu" : 2635
+	},
+	{
+		"product" : "Prepaid card",
+		"geshu" : 1303
+	},
+	{
+		"product" : "Other financial service",
+		"geshu" : 382
+	},
+	{
+		"product" : "product",
+		"geshu" : 1
+	}
+]
