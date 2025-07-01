@@ -159,7 +159,7 @@ const initTakeoffChart = async () => {
   
   try {
     const response = await axios.get(`${baseURL}/tables04`)
-    console.log('起飞架次数据:', response.data)
+    // console.log('起飞架次数据:', response.data)
     const data = response.data
     
     const option = {
@@ -227,7 +227,7 @@ const initWordCloudChart = async () => {
   
   try {
     const response = await axios.get(`${baseURL}/tables02`)
-    console.log('机场数据:', response.data)
+    // console.log('机场数据:', response.data)
     const data = response.data
     
     const option = {
@@ -296,7 +296,7 @@ const initFlightRankChart = async () => {
   
   try {
     const response = await axios.get(`${baseURL}/tables01`)
-    console.log('航班数据:', response.data)
+    // console.log('航班数据:', response.data)
     const data = response.data
     
     const option = {
